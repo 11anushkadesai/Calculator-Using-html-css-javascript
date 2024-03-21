@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+table ,tr ,th, td {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 3px;
+    padding: 3px;
+    background-color: black;
+    
+}
+h1{
+background-color: black;
+color: #ffff;
+}
+input[type="button"]
+{
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(49, 48, 48);
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffff;
+}
+input[type="text"]
+{
+    font-size: 20px;
+    width: 400px;
+    height:80px;   
+    display: flex;
+    background-color: black;
+    color: rgb(188, 104, 9);
+    border-radius: 10px;
+}
